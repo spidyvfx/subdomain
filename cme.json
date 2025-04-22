@@ -6,6 +6,5 @@
   },
   "record": {
     "CNAME": "is-a-dev-docs.pages.dev"
-  },
-  "proxied": true
+  }
 }
